@@ -12,3 +12,8 @@ d26 --> outputting to IR LED (triggering IR blast)
 ```
 
 the Ir library used in this project --> [Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote)
+
+schematic:
+[schematics for this project](schematic/)
+
+![ESP32_IR_sch](https://user-images.githubusercontent.com/57007730/188317314-0702bd84-12a0-4374-9dfc-1e52af56db75.png)
