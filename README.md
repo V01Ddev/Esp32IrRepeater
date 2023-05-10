@@ -7,7 +7,7 @@
 ## pin dictionary:
 ```
 d19 --> receving from button 1 (to start listening (via hold))
-d18 --> receving from diod\n
+d18 --> receving from diod
 d21 --> receving from button 2 (to trigger IR blast)
 d26 --> outputting to IR LED (triggering IR blast)
 ```
